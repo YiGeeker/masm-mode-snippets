@@ -1,0 +1,3 @@
+* Yasnippets for masm mode
+
+This is a collection of Yasnippets for masm mode.

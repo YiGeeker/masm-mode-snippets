@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: include
+# key: include
+# --
+include	${1.inc}

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: union ends
+# key: union
+# --
+${1:un}	union
+	$0
+$1	ends

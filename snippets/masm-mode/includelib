@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: includelib
+# key: includelib
+# --
+includelib	${1:.lib}

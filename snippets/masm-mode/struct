@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: struct ends
+# key: struct
+# --
+${1:st}	struct
+	$0
+$1	ends

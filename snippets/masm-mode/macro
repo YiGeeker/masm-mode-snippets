@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: macro endm
+# key: macro
+# --
+${1:ma}	macro
+	$0
+	endm

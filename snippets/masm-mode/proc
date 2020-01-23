@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: YiGeeker
+# name: proc endp
+# key: proc
+# --
+${1:pr}	proc
+	$0
+$1	endp
